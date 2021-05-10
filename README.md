@@ -1,12 +1,14 @@
-# braintoy_iris
+# IRIS dataset's ML model on the cloud
 
-[www.braintoy.ai](https://braintoy.ai/) is a MachineLearning Operating System, that makes creating and deploying ML models a breeze
+### Overview
 
-## Current deployment
-Dataset: iris
-Model: Classification
+The deployment is done using [www.braintoy.ai](https://braintoy.ai/), which is a MachineLearning Operating System. It that makes creating and deploying ML models a breeze.
 
-## Link to the live website: 
+### Current deployment
+- Dataset: iris
+- Model: Classification
+
+### Link to the live website: 
 
 [Live Website](https://govind-patwal.github.io/braintoy_iris/)
 
